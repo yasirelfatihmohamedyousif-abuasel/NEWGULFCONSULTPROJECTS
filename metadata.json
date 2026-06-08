@@ -1,0 +1,6 @@
+{
+  "name": "Gulf Consult Workflow",
+  "description": "Professional 8-department project archiving, setup, planning, surveys, investigation, testing, foundation construction, and billing workflow system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

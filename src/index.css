@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+@theme {
+  /* Logo-specific teal colors representing deep royal blue brand colors */
+  --color-teal-50: #f0f4ff;
+  --color-teal-100: #e1e7fe;
+  --color-teal-200: #c9d5fd;
+  --color-teal-300: #4e6df2;
+  --color-teal-400: #2e4499; /* lighter royal blue used for active text / hover state icons */
+  --color-teal-500: #23357a; /* EXACT DEEP ROYAL BLUE LOGO COLOR (perfect header, borders, backgrounds) */
+  --color-teal-600: #1c2a63;
+  --color-teal-700: #141f4b;
+  --color-teal-800: #0d1434;
+  --color-teal-900: #06091d;
+  --color-teal-950: #02040d;
+  
+  --color-emerald-500: #cca43b; /* Map emerald to gold matching the logo horizontal bar accent */
+  --color-emerald-600: #b08c2a;
+  --color-emerald-400: #cca43b;
+
+  /* Redefine Slate variables to achieve a very light-blue professional workspace */
+  --color-slate-50: #020617;
+  --color-slate-100: #0f172a; /* text-slate-100 gets readable dark slate navy */
+  --color-slate-200: #1e293b; 
+  --color-slate-250: #2a3c54;
+  --color-slate-300: #334155;
+  --color-slate-350: #3d516a;
+  --color-slate-400: #475569;
+  --color-slate-405: #4a5d78;
+  --color-slate-450: #5a718f;
+  --color-slate-500: #64748b;
+  --color-slate-505: #71849c;
+  --color-slate-550: #7b92ad;
+  --color-slate-600: #8da2bb;
+  --color-slate-700: #b8ccdf;
+  --color-slate-750: #c8dced;
+  --color-slate-800: #dce7f3; /* soft borders */
+  --color-slate-805: #dce7f3;
+  --color-slate-850: #e9f1f9; /* lighter borders */
+  --color-slate-900: #ffffff; /*bg-slate-900 becomes crisp white container sheets! */
+  --color-slate-950: #f1f6fc; /* bg-slate-950 becomes pristine soft/very light blue background canvas! */
+}
+
